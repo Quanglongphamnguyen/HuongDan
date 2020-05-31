@@ -1,0 +1,47 @@
+# 3-Trận Chiến, Giao Dịch
+———————————————————————
+
+Lệnh: .route <số>
+
+Chiến đấu với một Pokémon hoang dã.
+
+Ví dụ: .route 1 
+———————————————————————
+
+Lệnh: .routeinfo <số>
+
+Xem Pokémon của tuyến đường bao gồm cả việc bạn có bắt được chúng hay không.
+
+Ví dụ: .routeinfo 1 
+———————————————————————
+
+Lệnh: .battle <người dùng>
+
+Thách thức một huấn luyện viên cho một trận chiến xếp hạng.
+
+Ví dụ: .battle @user 
+———————————————————————
+
+Lệnh: .unranked <Người chơi>
+
+Thách thức một huấn luyện viên cho một trận chiến không xếp hạng.
+
+Ví dụ: .unranked @user 
+———————————————————————
+
+Lệnh: .gymbattle
+
+Thách thức một nhà lãnh đạo phòng tập thể dục cho một trận chiến.
+
+Ví dụ: .gymbattle 
+———————————————————————
+
+Lệnh: .trade <người dùng> (<Pokémon>, <số>) (<Pokémon>, <số>)
+
+Yêu cầu giao dịch. Dấu ngoặc đầu tiên dành cho Pokémon và PKC bạn cung cấp. Thứ hai cho Pokémon và bạn cần bao nhiêu PKC. Nếu bạn không yêu cầu bất cứ điều gì bạn có thể bỏ qua chúng.
+
+Ví dụ: .trade @user (Charizard, 0) hoặc 
+
+.trade @user (Snorlax, 500) (Charizard, 0)
+
+——————————————————————— 
