@@ -8,6 +8,7 @@ Một lệnh đơn giản, không có gì khác, .menu Myuu
 cần được thiết lập trước tiên từ Quản trị viên trong kênh cụ thể, giúp máy chủ giảm tin nhắn rác.
 
 Ví dụ: .menu 
+
 ———————————————————————
 
 Lệnh: .menu
