@@ -1,2 +1,2 @@
-# Hướng Dẫn
+# Bắt Đầu
 Đây là trang hỗ trợ dành cho người mới sử dụng Discord bao gồm hướng dẫn các tính năng, trò chuyện giọng nói, bot, ...
