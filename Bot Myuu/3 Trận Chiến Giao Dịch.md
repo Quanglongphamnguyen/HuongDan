@@ -1,4 +1,4 @@
-# 3-Trận Chiến, Giao Dịch
+# 3 Trận Chiến, Giao Dịch
 ———————————————————————
 
 Lệnh: .route <số>
