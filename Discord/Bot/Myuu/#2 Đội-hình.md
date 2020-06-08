@@ -1,4 +1,4 @@
-# #22 Đội hình
+# #2 Đội hình
 
 ~~**———————————————————————**~~
 
@@ -67,4 +67,3 @@ Khóa một Pokémon trong nhóm của bạn để tránh vô tình phát hành 
 Ví dụ: ``.pklock Mew``
 
 ~~**———————————————————————**~~
-
