@@ -73,4 +73,3 @@ Upvote Myuu trên https://top.gg/bot/438057969251254293 để giành PKD.
 Ví dụ: ``.vote``
 
 ~~**———————————————————————**~~
-
