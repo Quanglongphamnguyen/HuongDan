@@ -73,4 +73,3 @@ Kiểm tra các tác động mỗi thiên nhiên có.
 Ví dụ: ``.natures``
 
 ~~**———————————————————————**~~
-
