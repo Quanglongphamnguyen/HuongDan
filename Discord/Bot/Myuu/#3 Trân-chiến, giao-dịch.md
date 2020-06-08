@@ -1,4 +1,4 @@
-# #33 Trận chiến, giao dịch
+# #3 Trận chiến, giao dịch
 
 ~~**———————————————————————**~~
 
@@ -51,4 +51,3 @@ Ví dụ: ``.trade @user (Charizard, 0)`` hoặc
 ``.trade @user (Snorlax, 500) (Charizard, 0)``
 
 ~~**——————————————————————— **~~
-
