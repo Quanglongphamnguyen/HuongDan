@@ -4,9 +4,9 @@
 
 vd:
 
-``
+```
 *In nghiêng* (cách 1)
 
 _In nghiêng_ (cách 2)
 
-``
+```
