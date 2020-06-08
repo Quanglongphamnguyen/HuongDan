@@ -40,3 +40,4 @@ Nhận một Pokémon từ chăm sóc ban ngày.
 
 Ví dụ: ``.get Bulbasaur``
 
+~~**———————————————————————**~~
