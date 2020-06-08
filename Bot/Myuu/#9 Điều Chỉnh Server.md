@@ -1,4 +1,4 @@
-#9 Điều chỉnh server
+#9. Điều chỉnh server
 
 ~~**———————————————————————**~~
 
