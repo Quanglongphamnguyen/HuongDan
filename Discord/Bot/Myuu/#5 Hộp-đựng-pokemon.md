@@ -1,4 +1,4 @@
-# #55 Hộp đựng pokemon
+# #5 Hộp đựng pokemon
 
 ~~**———————————————————————**~~
 
@@ -65,4 +65,3 @@ Tìm kiếm để tìm tất cả các hộp chứa Pokémon cụ thể đó.
 Ví dụ: ``.boxsearch Charizard``
 
 ~~**———————————————————————**~~
-
